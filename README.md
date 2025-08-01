@@ -7,6 +7,18 @@ This project predicts whether a loan will default using machine learning.
 - XGBoost, LightGBM, CatBoost, and Logistic Regression
 - Stacking and threshold tuning
 - Evaluation using ROC-AUC, PR-AUC
+- 
+## 📦 Dataset
+
+Due to GitHub's 100MB file size limit, the dataset used in this project is **not included** in the repository.
+
+### 🔗 Download Manually
+
+Please download the dataset manually from [Kaggle - Lending Club Loan Data]([https://www.kaggle.com/datasets/wordsforthewise/lending-club])
+
+Once downloaded, place the file:
+
+accepted_2007_to_2018Q4.csv
 
 ## 📁 Folder Structure
 loan-default-prediction/
