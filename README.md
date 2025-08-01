@@ -54,7 +54,4 @@ Once you're done writing, save the `README.md`.
   - In **VSCode**: Click "Open Preview" or press `Ctrl + Shift + V`.
   - In **Jupyter Notebook**: Add a markdown cell and paste parts of your README to preview.
 
-- **Markdown Cheatsheet**:  
-  [https://www.markdownguide.org/cheat-sheet](https://www.markdownguide.org/cheat-sheet)
 
----
