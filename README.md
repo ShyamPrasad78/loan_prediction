@@ -22,18 +22,19 @@ accepted_2007_to_2018Q4.csv
 
 ## 📁 Folder Structure
 loan-default-prediction/
+|
 ├── data/
-
+|
 ├── models/
-
+|
 ├── notebooks/
-
+|
 ├── src/
-
+|
 ├── plots/
-
+|
 ├── requirements.txt
-
+|
 └── README.md
 
 ## ✅ Results
