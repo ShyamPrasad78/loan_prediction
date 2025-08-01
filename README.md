@@ -68,11 +68,7 @@ python main.py
 Author: MAHENDRA
 
 GitHub: https://github.com/MAHENDRAAUCSE
-#### 🔹 **4. Save the File**
 
-Once you're done writing, save the `README.md`.
-
----
 
 ### 💡 Helpful Tools
 
