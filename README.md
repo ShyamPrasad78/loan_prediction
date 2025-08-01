@@ -48,9 +48,9 @@ loan-default-prediction/
 
 | Metric     | Value  |
 |------------|--------|
-| Accuracy   | 72%    |
-| ROC-AUC    | 0.743  |
-| PR-AUC     | 0.420  |
+| Accuracy   | 82%    |
+| ROC-AUC    | 0.843  |
+| PR-AUC     | 0.520  |
 
 ## 🔧 How to Run
 
