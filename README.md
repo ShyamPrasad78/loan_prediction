@@ -65,9 +65,9 @@ python main.py
 
 ## 📬 Contact
 
-Author: MAHENDRA
+Author: shyamprasad78
 
-GitHub: https://github.com/MAHENDRAAUCSE
+GitHub: https://github.com/shyamprasad78
 
 
 ### 💡 Helpful Tools
